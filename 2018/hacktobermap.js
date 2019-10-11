@@ -1570,5 +1570,11 @@ var hacktobermap = [
     location: "Atlanta, GA, USA",
     latitude: 33.748550,
     longitude: -84.391502 
+  }, 
+  {
+    name: "Yann D. Nefaden",
+    location: "Nantes, France",
+    latitude: 47.218372,
+    longitude: -1.553621
   },
 ];
